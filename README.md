@@ -1,4 +1,4 @@
-<div<
+<div>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000015,100:000033&text=Welcome%20to%20My%20Profile&fontColor=ffffff&animation=fadeIn&height=200&desc=MaziGaming&descAlignY=65" />
 
 # Hey, I'm Mazi 👋
