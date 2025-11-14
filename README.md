@@ -1,8 +1,8 @@
 # Hey, I'm Mazi 👋
 
-**Computer Science Student | Compiler Developer | Systems Programmer**
+**Computer Science Student | Full Stack | Systems Programmer**
 
-I'm passionate about low-level systems, compilers, and reverse engineering. Currently focused on building **GaiaRusted** — a production-grade Rust compiler for x86-64 architectures.
+I'm passionate about many thing but lately i've taken an intrest in low-level systems, compilers, and reverse engineering. Currently focused on building **GaiaRusted** — a production-grade Rust compiler for x86-64 architectures.
 
 ## 🔧 Tech Stack
 
@@ -12,6 +12,7 @@ I'm passionate about low-level systems, compilers, and reverse engineering. Curr
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
+and few more
 
 ## 🚀 Featured Projects
 
@@ -22,8 +23,10 @@ A production-grade Rust compiler for x86-64 architectures. High-performance code
 Terminal-based decompiler converting x86-64 executables into readable pseudo-code and Rust. Features theming, scripting, and keybinds.
 
 ## 📊 Currently Working On
-- Expanding GaiaRusted compiler capabilities
-- Improving code generation optimizations
+- Gaiarusted
+- Cataclysm
+- Not dying due to sleep depravation
+- Fixing my sleep schedule
 
 ## 💬 Connect With Me
 
