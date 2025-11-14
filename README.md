@@ -1,5 +1,6 @@
 <div>
 <img src="bg1.jpg" alt="banner" width="100%" />
+</div>
 # Hey, I'm Mazi 👋
 
 **Computer Science Student | Full Stack | Systems Programmer**
@@ -46,4 +47,3 @@ Terminal-based decompiler converting x86-64 executables into readable pseudo-cod
 ---
 
 *Check out my repositories below and feel free to contribute or reach out!*
-</div>
