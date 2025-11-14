@@ -1,6 +1,6 @@
-<p align="center">
+<div<
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000015,100:000033&text=Welcome%20to%20My%20Profile&fontColor=ffffff&animation=fadeIn&height=200&desc=MaziGaming&descAlignY=65" />
-</p>
+
 # Hey, I'm Mazi 👋
 
 **Computer Science Student | Full Stack | Systems Programmer**
@@ -47,3 +47,4 @@ Terminal-based decompiler converting x86-64 executables into readable pseudo-cod
 ---
 
 *Check out my repositories below and feel free to contribute or reach out!*
+</div>
