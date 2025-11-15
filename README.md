@@ -44,5 +44,5 @@ Terminal-based decompiler converting x86-64 executables into readable pseudo-cod
 ---
 
 *Check out my repositories below and feel free to contribute or reach out!*
-**or buy me a coffe by sending a donation to my ![PayPal]([https://paypal.me/mazito19])**
+**or buy me a coffe by sending a donation to my ![PayPal](https://paypal.me/mazito19)**
 <img src="bg1.jpg" alt="banner" width="100%" />
