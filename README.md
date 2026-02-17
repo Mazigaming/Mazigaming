@@ -26,12 +26,13 @@ I'm passionate about many thing but lately i've taken an intrest in low-level sy
 ### **[GaiaRusted](https://github.com/Mazigaming/GaiaRusted)**
 A production-grade Rust compiler for x86-64 architectures. High-performance code generation with optimized output.
 
-### **[Cataclysm](https://github.com/Mazigaming/Cataclysm)**
-Terminal-based decompiler converting x86-64 executables into readable pseudo-code and Rust. Features theming, scripting, and keybinds.
+### **[NoxKit](https://github.com/Mazigaming/NoxKit)**
+A Rust-native declarative mobile UI framework for building high-performance Android and iOS apps in pure Rust
 
 ## 📊 Currently Working On
 - Gaiarusted
-- Cataclysm
+- NoxKit
+- Other projects (for $$$)
 - Not dying due to sleep depravation
 - Fixing my sleep schedule
 
